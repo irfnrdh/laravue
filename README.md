@@ -1,6 +1,6 @@
-# laravue
+# LaraVue
 
-Starter project dengan laravel dan vue
+> Starter project dengan laravel dan vue
 
 ### Membuat Project
 

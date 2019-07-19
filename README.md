@@ -1,6 +1,8 @@
+[logo]: yeah.gif "LaravelMix"
+
 # LaraVue
 
-> Starter project dengan laravel dan vue
+> Starter project dengan Laravel Mix dan Vue Js
 
 ### Membuat Project
 

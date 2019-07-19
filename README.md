@@ -1,4 +1,4 @@
-[logo]: yeah.gif "LaravelMix"
+![LaravelMix](yeah.gif)
 
 # LaraVue
 

@@ -2,27 +2,27 @@
 
 Starter project dengan laravel dan vue
 
-# Membuat Project
+### Membuat Project
 
 `laravel new laravue`
 `npm install`
 `npm install vue-router`
 
-# Menjalankan Project
+### Menjalankan Project
 
 `php artisan serve`
 `npm run watch`
 
-# Membuat login & Register
+### Membuat login & Register
 
 `php artisan make:auth`
 
-# Migrasi
+### Migrasi
 
-## Migrasi Data ke Database
+#### Migrasi Data ke Database
 
 `php artisan migrate`
 
-## Migrasi Ulang Setelah Error
+#### Migrasi Ulang Setelah Error
 
 `php artisan migrate:fresh`
